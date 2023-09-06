@@ -1,6 +1,5 @@
 numpy
 pandas
-os-sys
 pytest-shutil
 DateTime
 matplotlib
