@@ -24,6 +24,7 @@
     - All Data is converted to TensorFlow Format
 - (Change as per Requirement) Learning Rate Scheduler is Defined
 - (Change as per Requirement) Stochastic Gradient Descent with Momentum is Used as Optimizer
+- (Change as per Requirement) Added Data Augmentation Techniques to improve Model Learning
 - Base Model is Loded from TensorFlow Library
     - Custom Optimal Changes have been made to the Structure
     - Final Model is Compiled
