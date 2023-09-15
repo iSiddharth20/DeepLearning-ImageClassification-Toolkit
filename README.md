@@ -1,5 +1,8 @@
 # DeepLearning-ImageClassification-Toolkit
-End-to-end Image Classification using Deep Learning toolkit for custom image datasets. Features include Pre-Processing, Training with Multiple CNN Architectures and Statistical Inference Tools. Special utilities for RAM optimization, Learning Rate Scheduling, and Detailed Code Comments are included.
+End-to-end Image Classification using Deep Learning toolkit for custom image datasets. Features include Pre-Processing, Training with Multiple CNN Architectures and Statistical Inference Tools. Special utilities for RAM optimization, Learning Rate Scheduling, Detailed Code Comments and Necessary Diagrams are included.
+
+### Overview of Complete System :
+![Project Description](./Diagrams/Complete%20System%20Overview.png)
 
 ### PreProcessing Major Highlights:
 - Remove Background and Extract Object from Source Image
@@ -16,5 +19,6 @@ End-to-end Image Classification using Deep Learning toolkit for custom image dat
 - ResNet50
 - VGG16
 
-### Overview of Complete System :
-![Project Description](./Diagrams/Complete%20System%20Overview.png)
+### Statistical Analysis for:
+- Generate Graphs for Validation Loss, Validation Accuracy, F-1 Score, Validation AUC
+- Generate Confusion Matrix for Each Model
