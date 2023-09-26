@@ -5,6 +5,7 @@
 - Creates DataFrame containing Full Paths of Images and their Class Labels
 - (Change as per Requirement) Rescale Images to Computationally Efficient Resolution
 - (Optional but Recommended) Extracts Largest Object from Image using 'image_processing' Function
+    - Leverages Parallel Processing for Faster Results
 - Compares Original and Rescaled+Processed Image SIde-By-Side to make necessary changes
 - Converts Processed Images to NumPy Array and Exports as Pickle File
     - Verifies If Exported Pickle File is Appropriate through 10 Random Samples
