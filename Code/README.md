@@ -26,8 +26,10 @@
 - (Change as per Requirement) Learning Rate Scheduler is Defined
 - (Change as per Requirement) Stochastic Gradient Descent with Momentum is Used as Optimizer
 - (Change as per Requirement) Added Data Augmentation Techniques to improve Model Learning
-- Base Model is Loded from TensorFlow Library
+- Final Model is Created
+    - Base Model is Loded from TensorFlow Library
     - Custom Optimal Changes have been made to the Structure
+    - Tensorflow strategy.scope() is used to Distribute the Training of Model on All Available GPUs
     - Final Model is Compiled
 - Final Model is Trained
     - Final Model with Lowest Validation Loss is Exported as a '.h5' file
