@@ -19,6 +19,7 @@ This Codebase requires [TensorFlow](https://www.tensorflow.org/install), kindly 
 - InceptionResNetV2
 - ResNet50
 - VGG16
+- Added Tensorflow strategy.scope() to Distribute the Training of Model on All Available GPUs
 
 ### Statistical Analysis for:
 - Generate Graphs for Validation Loss, Validation Accuracy, F-1 Score, Validation AUC
