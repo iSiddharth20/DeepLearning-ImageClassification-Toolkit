@@ -2,6 +2,9 @@
 End-to-end Image Classification using Deep Learning toolkit for custom image datasets. Features include Pre-Processing, Training with Multiple CNN Architectures and Statistical Inference Tools. Special utilities for RAM optimization, Learning Rate Scheduling, Detailed Code Comments and Necessary Diagrams are included.
 This Codebase requires [TensorFlow](https://www.tensorflow.org/install), kindly make sure you have that installed.
 
+### Publication :
+[CNN-based damage classification of soybean kernels using a high-magnification image dataset](https://link.springer.com/article/10.1007/s11694-025-03195-9)
+
 ### Overview of Complete System :
 ![Project Description](./Diagrams/Complete%20System%20Overview.png)
 
